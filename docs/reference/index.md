@@ -14,3 +14,8 @@ Start here when you need definitions, templates, checklists, and canonical forma
 - [Cadence and timing](/reference/cadence-and-timing/)
 - [Adoption by team size](/reference/adoption-by-team-size/)
 - [Shape Up glossary](/reference/glossary/)
+- [Shaping notation and fit check rules](/reference/shaping-notation-and-fit-check-rules/)
+- [Shaping document hierarchy and sync rules](/reference/shaping-document-hierarchy-and-sync-rules/)
+- [Shaping prompts cheat sheet](/reference/shaping-prompts-cheat-sheet/)
+- [Breadboard artifact spec](/reference/breadboard-artifact-spec/)
+- [Upstream sources](/reference/upstream-sources/)

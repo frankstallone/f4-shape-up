@@ -4,6 +4,9 @@ description: "Shape Up Documentation"
 ---
 This documentation is organized using the Diataxis framework.
 
+For original source links and skill references, see
+[Upstream sources](/reference/upstream-sources/).
+
 ## Choose by intent
 
 - I want to learn by doing:
@@ -19,6 +22,8 @@ This documentation is organized using the Diataxis framework.
 
 - [Run your first six-week cycle](/tutorials/first-six-week-cycle/)
 - [Shape a real request end-to-end](/tutorials/shape-a-real-request-end-to-end/)
+- [Run your first R/S shaping session](/tutorials/first-r-s-shaping-session/)
+- [Ryan 0-1 shaping playbook](/tutorials/ryan-0-1-shaping-playbook/)
 
 ## How-To Guides
 
@@ -32,6 +37,11 @@ This documentation is organized using the Diataxis framework.
 - [Decide stop vs extend](/how-to/decide-stop-vs-extend/)
 - [Implement Shape Up in Basecamp](/how-to/implement-shape-up-in-basecamp/)
 - [Start Shape Up by company size](/how-to/start-shape-up-by-company-size/)
+- [Create a fit check decision matrix](/how-to/create-fit-check-decision-matrix/)
+- [Run a shaping spike](/how-to/run-a-shaping-spike/)
+- [Create a big picture document](/how-to/create-big-picture-document/)
+- [Slice a breadboarded shape](/how-to/slice-a-breadboarded-shape/)
+- [Validate each slice before moving on](/how-to/validate-each-slice-before-next/)
 
 ## Reference
 
@@ -43,6 +53,11 @@ This documentation is organized using the Diataxis framework.
 - [Cadence and timing](/reference/cadence-and-timing/)
 - [Adoption by team size](/reference/adoption-by-team-size/)
 - [Shape Up glossary](/reference/glossary/)
+- [Shaping notation and fit check rules](/reference/shaping-notation-and-fit-check-rules/)
+- [Shaping document hierarchy and sync rules](/reference/shaping-document-hierarchy-and-sync-rules/)
+- [Shaping prompts cheat sheet](/reference/shaping-prompts-cheat-sheet/)
+- [Breadboard artifact spec](/reference/breadboard-artifact-spec/)
+- [Upstream sources](/reference/upstream-sources/)
 
 ## Explanation
 

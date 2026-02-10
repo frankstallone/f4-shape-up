@@ -27,4 +27,5 @@ Ship a shaped project in six weeks.
 - How-To: [Use hill charts for status](/how-to/use-hill-charts-for-status/)
 - How-To: [Scope hammer without losing quality](/how-to/scope-hammer-without-losing-quality/)
 - How-To: [Decide stop vs extend](/how-to/decide-stop-vs-extend/)
+- How-To: [Validate each slice before moving on](/how-to/validate-each-slice-before-next/)
 - Reference: [Cadence and timing](/reference/cadence-and-timing/)

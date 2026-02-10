@@ -16,3 +16,8 @@ Start here when you already understand the method and need to complete a specifi
 - [Decide stop vs extend](/how-to/decide-stop-vs-extend/)
 - [Implement Shape Up in Basecamp](/how-to/implement-shape-up-in-basecamp/)
 - [Start Shape Up by company size](/how-to/start-shape-up-by-company-size/)
+- [Create a fit check decision matrix](/how-to/create-fit-check-decision-matrix/)
+- [Run a shaping spike](/how-to/run-a-shaping-spike/)
+- [Create a big picture document](/how-to/create-big-picture-document/)
+- [Slice a breadboarded shape](/how-to/slice-a-breadboarded-shape/)
+- [Validate each slice before moving on](/how-to/validate-each-slice-before-next/)

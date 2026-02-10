@@ -48,5 +48,7 @@ A one-page flow artifact that can be included directly in a pitch.
 ## See also
 
 - How-To: [Shape a pitch in one session](/how-to/shape-a-pitch/)
+- How-To: [Slice a breadboarded shape](/how-to/slice-a-breadboarded-shape/)
 - Reference: [Artifacts and templates](/reference/artifacts-and-templates/)
+- Reference: [Breadboard artifact spec](/reference/breadboard-artifact-spec/)
 - Explanation: [Shaping vs. building](/explanation/shaping-vs-building/)

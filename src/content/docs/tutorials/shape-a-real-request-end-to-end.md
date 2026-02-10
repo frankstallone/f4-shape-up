@@ -59,7 +59,9 @@ If all pass, move to betting table.
 
 ## See also
 
+- Tutorial: [Ryan 0-1 shaping playbook](/tutorials/ryan-0-1-shaping-playbook/)
 - How-To: [Shape a pitch in one session](/how-to/shape-a-pitch/)
 - How-To: [Breadboard a solution](/how-to/breadboard-a-solution/)
+- How-To: [Create a fit check decision matrix](/how-to/create-fit-check-decision-matrix/)
 - Reference: [Pitch template with example](/reference/pitch-template-with-example/)
 - Explanation: [Why shaping before betting](/explanation/why-shaping-before-betting/)

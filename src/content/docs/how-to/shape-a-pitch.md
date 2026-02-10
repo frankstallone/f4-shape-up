@@ -40,4 +40,6 @@ A good pitch is:
 
 - Reference: [Pitch template with example](/reference/pitch-template-with-example/)
 - How-To: [Find and patch rabbit holes](/how-to/find-and-patch-rabbit-holes/)
+- How-To: [Create a fit check decision matrix](/how-to/create-fit-check-decision-matrix/)
+- How-To: [Run a shaping spike](/how-to/run-a-shaping-spike/)
 - Explanation: [Why shaping before betting](/explanation/why-shaping-before-betting/)
