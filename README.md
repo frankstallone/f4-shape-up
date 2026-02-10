@@ -4,8 +4,8 @@ Diataxis-based documentation derived from *Shape Up* by Ryan Singer.
 
 ## Project Layout
 
-- `docs/`: source Diataxis docs
-- `src/content/docs/`: Starlight-rendered docs content
+- `docs/`: source Diataxis docs (author here first)
+- `src/content/docs/`: generated Starlight docs content (synced from `docs/`)
 - `sources/shape-up.pdf`: source book PDF
 - `sources/shape-up.md`: extracted Markdown reference
 
@@ -21,6 +21,21 @@ Diataxis-based documentation derived from *Shape Up* by Ryan Singer.
 ```bash
 npm install
 npm run dev
+```
+
+## Docs Authoring Workflow
+
+1. Edit markdown in `docs/`.
+2. Sync into Astro docs:
+
+```bash
+npm run sync:docs
+```
+
+3. Validate heading structure:
+
+```bash
+npm run check:headings
 ```
 
 Build for static output:

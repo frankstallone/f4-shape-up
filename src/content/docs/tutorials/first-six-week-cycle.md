@@ -2,7 +2,6 @@
 title: "Tutorial: Run Your First Six-Week Cycle"
 description: "Tutorial: Run Your First Six-Week Cycle"
 ---
-
 ## Goal
 
 Complete a full Shape Up cycle with one small team and one meaningful project.
