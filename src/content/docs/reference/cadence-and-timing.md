@@ -3,8 +3,6 @@ title: "Reference: Cadence and Timing"
 description: "Reference: Cadence and Timing"
 ---
 
-# Reference: Cadence and Timing
-
 ## Standard Rhythm
 
 - 6 weeks building

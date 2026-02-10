@@ -3,8 +3,6 @@ title: "How-To: Run a Betting Table"
 description: "How-To: Run a Betting Table"
 ---
 
-# How-To: Run a Betting Table
-
 ## Objective
 
 Choose projects for the next cycle without building a backlog commitment.

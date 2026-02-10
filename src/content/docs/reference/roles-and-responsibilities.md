@@ -3,8 +3,6 @@ title: "Reference: Roles and Responsibilities"
 description: "Reference: Roles and Responsibilities"
 ---
 
-# Reference: Roles and Responsibilities
-
 ## Shaper
 
 - frames the problem

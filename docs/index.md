@@ -1,4 +1,4 @@
-# Shape Up Documentation (Diataxis)
+# Shape Up Documentation
 
 This documentation is organized using the Diataxis framework.
 

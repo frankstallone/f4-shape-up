@@ -3,8 +3,6 @@ title: "Explanation: Shaping vs. Building"
 description: "Explanation: Shaping vs. Building"
 ---
 
-# Explanation: Shaping vs. Building
-
 Shaping and building are separate tracks with different risk profiles.
 
 Shaping reduces delivery risk by:

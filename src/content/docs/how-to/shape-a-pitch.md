@@ -3,8 +3,6 @@ title: "How-To: Shape a Pitch in One Session"
 description: "How-To: Shape a Pitch in One Session"
 ---
 
-# How-To: Shape a Pitch in One Session
-
 ## Objective
 
 Produce a bet-ready pitch that fits a fixed appetite.

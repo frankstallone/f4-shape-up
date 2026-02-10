@@ -3,8 +3,6 @@ title: "Reference: Artifacts and Templates"
 description: "Reference: Artifacts and Templates"
 ---
 
-# Reference: Artifacts and Templates
-
 ## Pitch
 
 Fields:

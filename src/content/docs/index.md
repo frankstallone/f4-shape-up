@@ -1,9 +1,7 @@
 ---
-title: "Shape Up Documentation (Diataxis)"
-description: "Shape Up Documentation (Diataxis)"
+title: "Shape Up Documentation"
+description: "Shape Up Documentation"
 ---
-
-# Shape Up Documentation (Diataxis)
 
 This documentation is organized using the Diataxis framework.
 

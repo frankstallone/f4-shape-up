@@ -3,8 +3,6 @@ title: "How-To: Execute a Six-Week Build Cycle"
 description: "How-To: Execute a Six-Week Build Cycle"
 ---
 
-# How-To: Execute a Six-Week Build Cycle
-
 ## Objective
 
 Ship a shaped project in six weeks.

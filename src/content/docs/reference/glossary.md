@@ -3,8 +3,6 @@ title: "Reference: Glossary"
 description: "Reference: Glossary"
 ---
 
-# Reference: Glossary
-
 ## Appetite
 
 A time budget chosen before design details.
