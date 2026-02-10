@@ -33,6 +33,6 @@ Stop, capture learnings, and move leftovers back to shaping.
 
 ## See also
 
-- How-To: [Scope hammer without losing quality](../how-to/scope-hammer-without-losing-quality.md)
-- Reference: [Cadence and timing](../reference/cadence-and-timing.md)
-- Explanation: [Fixed time, variable scope](../explanation/fixed-time-variable-scope.md)
+- How-To: [Scope hammer without losing quality](/how-to/scope-hammer-without-losing-quality/)
+- Reference: [Cadence and timing](/reference/cadence-and-timing/)
+- Explanation: [Fixed time, variable scope](/explanation/fixed-time-variable-scope/)

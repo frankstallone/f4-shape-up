@@ -41,6 +41,6 @@ A pitch is bettable when the highest-risk unknowns are either solved or explicit
 
 ## See also
 
-- How-To: [Shape a pitch in one session](../how-to/shape-a-pitch.md)
-- Reference: [Scope map patterns](../reference/scope-map-patterns.md)
-- Explanation: [Why shaping before betting](../explanation/why-shaping-before-betting.md)
+- How-To: [Shape a pitch in one session](/how-to/shape-a-pitch/)
+- Reference: [Scope map patterns](/reference/scope-map-patterns/)
+- Explanation: [Why shaping before betting](/explanation/why-shaping-before-betting/)

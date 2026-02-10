@@ -28,6 +28,6 @@ Set up Basecamp artifacts that support shaping, betting, and building.
 
 ## See also
 
-- Reference: [Artifacts and templates](../reference/artifacts-and-templates.md)
-- Reference: [Roles and responsibilities](../reference/roles-and-responsibilities.md)
-- How-To: [Start Shape Up by company size](../how-to/start-shape-up-by-company-size.md)
+- Reference: [Artifacts and templates](/reference/artifacts-and-templates/)
+- Reference: [Roles and responsibilities](/reference/roles-and-responsibilities/)
+- How-To: [Start Shape Up by company size](/how-to/start-shape-up-by-company-size/)

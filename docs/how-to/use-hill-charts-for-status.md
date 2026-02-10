@@ -32,6 +32,6 @@ Report status by certainty and momentum instead of percent-complete estimates.
 
 ## See also
 
-- How-To: [Execute a six-week build cycle](../how-to/execute-a-cycle.md)
-- Reference: [Scope map patterns](../reference/scope-map-patterns.md)
-- Explanation: [Projects, not tasks](../explanation/projects-not-tasks.md)
+- How-To: [Execute a six-week build cycle](/how-to/execute-a-cycle/)
+- Reference: [Scope map patterns](/reference/scope-map-patterns/)
+- Explanation: [Projects, not tasks](/explanation/projects-not-tasks/)

@@ -6,9 +6,9 @@ Start here when you need reasoning, principles, and trade-off frameworks.
 
 ## Available explanation
 
-- [Why six weeks works](./why-six-weeks-works.md)
-- [Fixed time, variable scope](./fixed-time-variable-scope.md)
-- [Why Shape Up avoids backlogs](./why-no-backlogs.md)
-- [Projects, not tasks](./projects-not-tasks.md)
-- [Why shaping before betting](./why-shaping-before-betting.md)
-- [Shaping vs. building](./shaping-vs-building.md)
+- [Why six weeks works](/explanation/why-six-weeks-works/)
+- [Fixed time, variable scope](/explanation/fixed-time-variable-scope/)
+- [Why Shape Up avoids backlogs](/explanation/why-no-backlogs/)
+- [Projects, not tasks](/explanation/projects-not-tasks/)
+- [Why shaping before betting](/explanation/why-shaping-before-betting/)
+- [Shaping vs. building](/explanation/shaping-vs-building/)

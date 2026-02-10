@@ -36,6 +36,6 @@ No-gos:
 
 ## See also
 
-- How-To: [Shape a pitch in one session](../how-to/shape-a-pitch.md)
-- How-To: [Find and patch rabbit holes](../how-to/find-and-patch-rabbit-holes.md)
-- Reference: [Betting table checklist](../reference/betting-table-checklist.md)
+- How-To: [Shape a pitch in one session](/how-to/shape-a-pitch/)
+- How-To: [Find and patch rabbit holes](/how-to/find-and-patch-rabbit-holes/)
+- Reference: [Betting table checklist](/reference/betting-table-checklist/)

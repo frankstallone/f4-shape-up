@@ -10,6 +10,6 @@ This keeps teams focused, keeps priorities current, and prevents stale commitmen
 
 ## See also
 
-- How-To: [Run a betting table](../how-to/run-betting-table.md)
-- Explanation: [Why shaping before betting](../explanation/why-shaping-before-betting.md)
-- Reference: [Betting table checklist](../reference/betting-table-checklist.md)
+- How-To: [Run a betting table](/how-to/run-betting-table/)
+- Explanation: [Why shaping before betting](/explanation/why-shaping-before-betting/)
+- Reference: [Betting table checklist](/reference/betting-table-checklist/)

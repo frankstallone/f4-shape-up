@@ -6,11 +6,11 @@ Start here when you need definitions, templates, checklists, and canonical forma
 
 ## Available reference
 
-- [Roles and responsibilities](./roles-and-responsibilities.md)
-- [Artifacts and templates](./artifacts-and-templates.md)
-- [Pitch template with example](./pitch-template-with-example.md)
-- [Betting table checklist](./betting-table-checklist.md)
-- [Scope map patterns](./scope-map-patterns.md)
-- [Cadence and timing](./cadence-and-timing.md)
-- [Adoption by team size](./adoption-by-team-size.md)
-- [Shape Up glossary](./glossary.md)
+- [Roles and responsibilities](/reference/roles-and-responsibilities/)
+- [Artifacts and templates](/reference/artifacts-and-templates/)
+- [Pitch template with example](/reference/pitch-template-with-example/)
+- [Betting table checklist](/reference/betting-table-checklist/)
+- [Scope map patterns](/reference/scope-map-patterns/)
+- [Cadence and timing](/reference/cadence-and-timing/)
+- [Adoption by team size](/reference/adoption-by-team-size/)
+- [Shape Up glossary](/reference/glossary/)

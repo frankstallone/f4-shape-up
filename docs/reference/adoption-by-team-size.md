@@ -32,6 +32,6 @@
 
 ## See also
 
-- How-To: [Start Shape Up by company size](../how-to/start-shape-up-by-company-size.md)
-- How-To: [Implement Shape Up in Basecamp](../how-to/implement-shape-up-in-basecamp.md)
-- Tutorial: [Run your first six-week cycle](../tutorials/first-six-week-cycle.md)
+- How-To: [Start Shape Up by company size](/how-to/start-shape-up-by-company-size/)
+- How-To: [Implement Shape Up in Basecamp](/how-to/implement-shape-up-in-basecamp/)
+- Tutorial: [Run your first six-week cycle](/tutorials/first-six-week-cycle/)

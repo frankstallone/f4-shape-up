@@ -28,6 +28,6 @@ description: "Reference: Roles and Responsibilities"
 
 ## See also
 
-- How-To: [Run a betting table](../how-to/run-betting-table.md)
-- How-To: [Execute a six-week build cycle](../how-to/execute-a-cycle.md)
-- Explanation: [Projects, not tasks](../explanation/projects-not-tasks.md)
+- How-To: [Run a betting table](/how-to/run-betting-table/)
+- How-To: [Execute a six-week build cycle](/how-to/execute-a-cycle/)
+- Explanation: [Projects, not tasks](/explanation/projects-not-tasks/)

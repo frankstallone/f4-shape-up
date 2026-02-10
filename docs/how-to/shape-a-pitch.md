@@ -36,6 +36,6 @@ A good pitch is:
 
 ## See also
 
-- Reference: [Pitch template with example](../reference/pitch-template-with-example.md)
-- How-To: [Find and patch rabbit holes](../how-to/find-and-patch-rabbit-holes.md)
-- Explanation: [Why shaping before betting](../explanation/why-shaping-before-betting.md)
+- Reference: [Pitch template with example](/reference/pitch-template-with-example/)
+- How-To: [Find and patch rabbit holes](/how-to/find-and-patch-rabbit-holes/)
+- Explanation: [Why shaping before betting](/explanation/why-shaping-before-betting/)

@@ -45,6 +45,6 @@ Use when teams are overloaded by interrupts. Introduce timeboxes and cool-down f
 
 ## See also
 
-- Reference: [Adoption by team size](../reference/adoption-by-team-size.md)
-- How-To: [Implement Shape Up in Basecamp](../how-to/implement-shape-up-in-basecamp.md)
-- Tutorial: [Run your first six-week cycle](../tutorials/first-six-week-cycle.md)
+- Reference: [Adoption by team size](/reference/adoption-by-team-size/)
+- How-To: [Implement Shape Up in Basecamp](/how-to/implement-shape-up-in-basecamp/)
+- Tutorial: [Run your first six-week cycle](/tutorials/first-six-week-cycle/)

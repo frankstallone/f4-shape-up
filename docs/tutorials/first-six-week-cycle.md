@@ -79,7 +79,7 @@ At cycle end, answer:
 
 ## See also
 
-- How-To: [Execute a six-week build cycle](../how-to/execute-a-cycle.md)
-- How-To: [Run a betting table](../how-to/run-betting-table.md)
-- Reference: [Cadence and timing](../reference/cadence-and-timing.md)
-- Explanation: [Why six weeks works](../explanation/why-six-weeks-works.md)
+- How-To: [Execute a six-week build cycle](/how-to/execute-a-cycle/)
+- How-To: [Run a betting table](/how-to/run-betting-table/)
+- Reference: [Cadence and timing](/reference/cadence-and-timing/)
+- Explanation: [Why six weeks works](/explanation/why-six-weeks-works/)

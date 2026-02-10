@@ -31,6 +31,6 @@ description: "Reference: Betting Table Checklist"
 
 ## See also
 
-- How-To: [Run a betting table](../how-to/run-betting-table.md)
-- Reference: [Roles and responsibilities](../reference/roles-and-responsibilities.md)
-- Explanation: [Why Shape Up avoids backlogs](../explanation/why-no-backlogs.md)
+- How-To: [Run a betting table](/how-to/run-betting-table/)
+- Reference: [Roles and responsibilities](/reference/roles-and-responsibilities/)
+- Explanation: [Why Shape Up avoids backlogs](/explanation/why-no-backlogs/)

@@ -12,6 +12,6 @@ This makes betting a strategic allocation decision instead of a hopeful estimate
 
 ## See also
 
-- How-To: [Shape a pitch in one session](../how-to/shape-a-pitch.md)
-- How-To: [Find and patch rabbit holes](../how-to/find-and-patch-rabbit-holes.md)
-- Reference: [Pitch template with example](../reference/pitch-template-with-example.md)
+- How-To: [Shape a pitch in one session](/how-to/shape-a-pitch/)
+- How-To: [Find and patch rabbit holes](/how-to/find-and-patch-rabbit-holes/)
+- Reference: [Pitch template with example](/reference/pitch-template-with-example/)

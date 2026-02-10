@@ -14,6 +14,6 @@ When these tracks blur, teams either start too early with unbounded work or over
 
 ## See also
 
-- Explanation: [Projects, not tasks](../explanation/projects-not-tasks.md)
-- How-To: [Shape a pitch in one session](../how-to/shape-a-pitch.md)
-- How-To: [Execute a six-week build cycle](../how-to/execute-a-cycle.md)
+- Explanation: [Projects, not tasks](/explanation/projects-not-tasks/)
+- How-To: [Shape a pitch in one session](/how-to/shape-a-pitch/)
+- How-To: [Execute a six-week build cycle](/how-to/execute-a-cycle/)

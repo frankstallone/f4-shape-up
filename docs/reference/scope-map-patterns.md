@@ -26,6 +26,6 @@ Many small mixed tasks with weak structure; requires re-grouping before executio
 
 ## See also
 
-- How-To: [Use hill charts for status](../how-to/use-hill-charts-for-status.md)
-- How-To: [Execute a six-week build cycle](../how-to/execute-a-cycle.md)
-- Reference: [Artifacts and templates](../reference/artifacts-and-templates.md)
+- How-To: [Use hill charts for status](/how-to/use-hill-charts-for-status/)
+- How-To: [Execute a six-week build cycle](/how-to/execute-a-cycle/)
+- Reference: [Artifacts and templates](/reference/artifacts-and-templates/)

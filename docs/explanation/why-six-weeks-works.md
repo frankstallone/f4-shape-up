@@ -8,6 +8,6 @@ The key is pairing the six-week build with a cool-down period and enforcing vari
 
 ## See also
 
-- Reference: [Cadence and timing](../reference/cadence-and-timing.md)
-- Explanation: [Fixed time, variable scope](../explanation/fixed-time-variable-scope.md)
-- Tutorial: [Run your first six-week cycle](../tutorials/first-six-week-cycle.md)
+- Reference: [Cadence and timing](/reference/cadence-and-timing/)
+- Explanation: [Fixed time, variable scope](/explanation/fixed-time-variable-scope/)
+- Tutorial: [Run your first six-week cycle](/tutorials/first-six-week-cycle/)

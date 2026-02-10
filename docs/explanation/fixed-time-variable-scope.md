@@ -12,6 +12,6 @@ The model does not reduce ambition. It forces clearer decisions about what matte
 
 ## See also
 
-- How-To: [Scope hammer without losing quality](../how-to/scope-hammer-without-losing-quality.md)
-- How-To: [Decide stop vs extend](../how-to/decide-stop-vs-extend.md)
-- Reference: [Cadence and timing](../reference/cadence-and-timing.md)
+- How-To: [Scope hammer without losing quality](/how-to/scope-hammer-without-losing-quality/)
+- How-To: [Decide stop vs extend](/how-to/decide-stop-vs-extend/)
+- Reference: [Cadence and timing](/reference/cadence-and-timing/)

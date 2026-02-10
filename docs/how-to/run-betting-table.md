@@ -32,6 +32,6 @@ Choose projects for the next cycle without building a backlog commitment.
 
 ## See also
 
-- Reference: [Betting table checklist](../reference/betting-table-checklist.md)
-- Reference: [Roles and responsibilities](../reference/roles-and-responsibilities.md)
-- Explanation: [Why Shape Up avoids backlogs](../explanation/why-no-backlogs.md)
+- Reference: [Betting table checklist](/reference/betting-table-checklist/)
+- Reference: [Roles and responsibilities](/reference/roles-and-responsibilities/)
+- Explanation: [Why Shape Up avoids backlogs](/explanation/why-no-backlogs/)

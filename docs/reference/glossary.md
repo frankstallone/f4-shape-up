@@ -38,6 +38,6 @@ Pre-build design/strategy work that makes a project bettable.
 
 ## See also
 
-- Reference: [Artifacts and templates](../reference/artifacts-and-templates.md)
-- Explanation: [Shaping vs. building](../explanation/shaping-vs-building.md)
-- How-To: [Shape a pitch in one session](../how-to/shape-a-pitch.md)
+- Reference: [Artifacts and templates](/reference/artifacts-and-templates/)
+- Explanation: [Shaping vs. building](/explanation/shaping-vs-building/)
+- How-To: [Shape a pitch in one session](/how-to/shape-a-pitch/)
