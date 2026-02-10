@@ -12,7 +12,7 @@ Why this matters:
 
 Task discovery is expected behavior, not planning failure.
 
-The risk is chaos if boundaries are weak. That is why shaping quality and no-gos are critical.
+The risk is chaos if boundaries are weak. That is why [shaping](/reference/glossary/#shaping) quality and [no-gos](/reference/glossary/#no-go) are critical.
 
 ## See also
 

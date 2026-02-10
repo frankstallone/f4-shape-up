@@ -25,14 +25,14 @@ Reduce delivery risk before betting by identifying likely complexity traps.
 - sequencing dependency
 4. Patch each risk by one of:
 - clarifying the behavior now
-- adding a hard boundary/no-go
+- adding a hard boundary/[no-go](/reference/glossary/#no-go)
 - cutting the risky slice
 - deferring to a later cycle
-5. Re-check appetite fit.
+5. Re-check [appetite](/reference/glossary/#appetite) fit.
 
 ## Output format in pitch
 
-- Rabbit hole:
+- [Rabbit hole](/reference/glossary/#rabbit-hole):
 - Why risky:
 - Patch decision:
 - Residual risk:

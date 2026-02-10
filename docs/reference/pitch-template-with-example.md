@@ -3,10 +3,10 @@
 ## Template
 
 - Problem:
-- Appetite:
+- [Appetite](/reference/glossary/#appetite):
 - Solution:
-- Rabbit holes:
-- No-gos:
+- [Rabbit holes](/reference/glossary/#rabbit-hole):
+- [No-gos](/reference/glossary/#no-go):
 
 ## Example (condensed)
 

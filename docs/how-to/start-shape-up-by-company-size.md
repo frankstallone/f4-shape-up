@@ -10,11 +10,11 @@ Use when you can allocate one full team and protect focus for one cycle.
 
 ## Option B: Start with shaping
 
-Use when delivery is unstable but planning is ad hoc. Build shaping skill first.
+Use when delivery is unstable but planning is ad hoc. Build [shaping](/reference/glossary/#shaping) skill first.
 
 ## Option C: Start with cycles
 
-Use when teams are overloaded by interrupts. Introduce timeboxes and cool-down first.
+Use when teams are overloaded by interrupts. Introduce timeboxes and [cool-down](/reference/glossary/#cool-down) first.
 
 ## Team-size adjustments
 
@@ -27,7 +27,7 @@ Use when teams are overloaded by interrupts. Introduce timeboxes and cool-down f
 ### Medium teams
 
 - dedicated betting table cadence
-- multiple concurrent bets
+- multiple concurrent [bets](/reference/glossary/#bet)
 - explicit cross-team dependency review
 
 ### Large teams
@@ -40,7 +40,7 @@ Use when teams are overloaded by interrupts. Introduce timeboxes and cool-down f
 
 - run one pilot cycle
 - review misses and scope cuts
-- adjust appetite calibration
+- adjust [appetite](/reference/glossary/#appetite) calibration
 - codify local working agreements
 
 ## See also

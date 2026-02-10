@@ -8,7 +8,7 @@ A customer asks for "better scheduling". The request is broad and potentially ex
 
 ## Goal
 
-Produce a bet-ready pitch in one session.
+Produce a [bet](/reference/glossary/#bet)-ready pitch in one session.
 
 ## Step 1: Narrow the problem
 
@@ -23,18 +23,18 @@ Output:
 Choose six weeks or small batch before designing.
 
 Output:
-- appetite decision with rationale
+- [appetite](/reference/glossary/#appetite) decision with rationale
 
 ## Step 3: Breadboard the flow
 
 Map places, affordances, and connections for the primary path.
 
 Output:
-- one-page breadboard
+- one-page [breadboard](/reference/glossary/#breadboard)
 
 ## Step 4: Patch rabbit holes
 
-List top unknowns and patch with decisions, cuts, or no-gos.
+List top unknowns and patch with decisions, cuts, or [no-gos](/reference/glossary/#no-go).
 
 Output:
 - risk table with patch decisions
@@ -45,7 +45,7 @@ Fill the template:
 - problem
 - appetite
 - solution
-- rabbit holes
+- [rabbit holes](/reference/glossary/#rabbit-hole)
 - no-gos
 
 ## Step 6: Betting-ready review

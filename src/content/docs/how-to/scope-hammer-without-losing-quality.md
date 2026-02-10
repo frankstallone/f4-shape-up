@@ -37,7 +37,7 @@ Cut scope if it only improves:
 - Candidate cut:
 - User impact:
 - Why acceptable now:
-- Follow-up shaping note:
+- Follow-up [shaping](/reference/glossary/#shaping) note:
 
 ## Anti-patterns
 

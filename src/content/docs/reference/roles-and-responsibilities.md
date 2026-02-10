@@ -5,14 +5,14 @@ description: "Reference: Roles and Responsibilities"
 ## Shaper
 
 - frames the problem
-- sets appetite
+- sets [appetite](/reference/glossary/#appetite)
 - outlines solution boundaries
-- writes pitches
+- writes [pitches](/reference/glossary/#pitch)
 
 ## Betting Table
 
 - evaluates shaped pitches
-- commits teams to bets
+- commits teams to [bets](/reference/glossary/#bet)
 - protects focus during cycle
 
 ## Build Team (designer + programmers)

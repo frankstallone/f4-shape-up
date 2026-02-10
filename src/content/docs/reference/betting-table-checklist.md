@@ -4,21 +4,21 @@ description: "Reference: Betting Table Checklist"
 ---
 ## Inputs required
 
-- shaped pitches only
+- shaped [pitches](/reference/glossary/#pitch) only
 - available team capacity for next cycle
 - current strategic priorities
 
 ## Evaluation checklist
 
 - problem is meaningful now
-- appetite matches value
+- [appetite](/reference/glossary/#appetite) matches value
 - solution is understandable
-- rabbit holes are patched or bounded
+- [rabbit holes](/reference/glossary/#rabbit-hole) are patched or bounded
 - right team is available
 
 ## Output checklist
 
-- selected bets
+- selected [bets](/reference/glossary/#bet)
 - assigned teams
 - explicit non-bets
 - kickoff communication plan

@@ -2,7 +2,7 @@
 
 Betting on unshaped work converts uncertainty into delivery risk.
 
-Shaping first improves decision quality by making three things explicit:
+[Shaping](/reference/glossary/#shaping) first improves decision quality by making three things explicit:
 
 - what problem is being solved
 - how much time it is worth

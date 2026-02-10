@@ -7,10 +7,10 @@ description: "Reference: Artifacts and Templates"
 Fields:
 
 - Problem
-- Appetite
+- [Appetite](/reference/glossary/#appetite)
 - Solution
-- Rabbit holes
-- No-gos
+- [Rabbit holes](/reference/glossary/#rabbit-hole)
+- [No-gos](/reference/glossary/#no-go)
 
 ## Scope Map
 
@@ -24,7 +24,7 @@ Groups work by meaningful parts of the solution. Used by the team during build.
 ## Cycle Cadence
 
 - Build cycle: 6 weeks
-- Cool-down: 1-2 weeks
+- [Cool-down](/reference/glossary/#cool-down): 1-2 weeks
 
 ## See also
 

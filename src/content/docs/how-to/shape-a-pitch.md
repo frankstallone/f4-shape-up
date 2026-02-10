@@ -4,7 +4,7 @@ description: "How-To: Shape a Pitch in One Session"
 ---
 ## Objective
 
-Produce a bet-ready pitch that fits a fixed appetite.
+Produce a [bet](/reference/glossary/#bet)-ready pitch that fits a fixed [appetite](/reference/glossary/#appetite).
 
 ## Inputs
 
@@ -15,9 +15,9 @@ Produce a bet-ready pitch that fits a fixed appetite.
 
 1. Define the problem narrowly.
 2. Set the appetite (small batch or six weeks).
-3. Sketch the solution at a mid-level fidelity (breadboard/fat-marker style).
-4. Identify rabbit holes and unknowns.
-5. Decide explicit no-gos.
+3. Sketch the solution at a mid-level fidelity ([breadboard](/reference/glossary/#breadboard)/fat-marker style).
+4. Identify [rabbit holes](/reference/glossary/#rabbit-hole) and unknowns.
+5. Decide explicit [no-gos](/reference/glossary/#no-go).
 6. Write the pitch in one page.
 
 ## Output Template

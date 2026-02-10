@@ -2,13 +2,13 @@
 title: "Explanation: Shaping vs. Building"
 description: "Explanation: Shaping vs. Building"
 ---
-Shaping and building are separate tracks with different risk profiles.
+[Shaping](/reference/glossary/#shaping) and building are separate tracks with different risk profiles.
 
 Shaping reduces delivery risk by:
 
 - narrowing the problem
 - bounding the solution
-- exposing rabbit holes
+- exposing [rabbit holes](/reference/glossary/#rabbit-hole)
 
 Building converts a shaped pitch into shipped software by discovering concrete tasks and integrating slices early.
 

@@ -11,10 +11,10 @@ Choose projects for the next cycle without building a backlog commitment.
 
 ## Procedure
 
-1. Gather all shaped pitches.
-2. Review each pitch quickly: problem, appetite, risk.
+1. Gather all shaped [pitches](/reference/glossary/#pitch).
+2. Review each pitch quickly: problem, [appetite](/reference/glossary/#appetite), risk.
 3. Decide against current product context and strategic timing.
-4. Match bets to available teams.
+4. Match [bets](/reference/glossary/#bet) to available teams.
 5. Publish selected bets and explicit non-bets.
 
 ## Rules

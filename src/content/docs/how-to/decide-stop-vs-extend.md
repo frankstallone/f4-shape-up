@@ -17,8 +17,8 @@ Stop at the timebox. Re-shape before additional investment.
 - core correctness gap
 - quality hardening
 - optional enhancement
-3. Estimate extension cost in appetite terms.
-4. Ask whether the current concept still deserves additional bet.
+3. Estimate extension cost in [appetite](/reference/glossary/#appetite) terms.
+4. Ask whether the current concept still deserves additional [bet](/reference/glossary/#bet).
 
 ## Extend only if all are true
 
@@ -29,7 +29,7 @@ Stop at the timebox. Re-shape before additional investment.
 
 ## Otherwise
 
-Stop, capture learnings, and move leftovers back to shaping.
+Stop, capture learnings, and move leftovers back to [shaping](/reference/glossary/#shaping).
 
 ## See also
 

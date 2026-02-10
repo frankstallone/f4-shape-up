@@ -5,8 +5,8 @@ description: "Reference: Adoption by Team Size"
 ## 1-6 people
 
 - informal betting table
-- one or two active bets max
-- direct collaboration between shaping and building
+- one or two active [bets](/reference/glossary/#bet) max
+- direct collaboration between [shaping](/reference/glossary/#shaping) and building
 
 ## 7-20 people
 

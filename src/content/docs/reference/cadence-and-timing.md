@@ -5,7 +5,7 @@ description: "Reference: Cadence and Timing"
 ## Standard Rhythm
 
 - 6 weeks building
-- 1-2 weeks cool-down
+- 1-2 weeks [cool-down](/reference/glossary/#cool-down)
 
 ## Appetite Sizes
 

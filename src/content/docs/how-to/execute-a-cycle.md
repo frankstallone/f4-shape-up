@@ -13,7 +13,7 @@ Ship a shaped project in six weeks.
 3. Build one integrated vertical slice early.
 4. Use hill-chart style status: uphill (figuring out), downhill (known path).
 5. Cut scope when needed to protect shipment.
-6. Ship by week 6; move leftovers back to shaping if needed.
+6. Ship by week 6; move leftovers back to [shaping](/reference/glossary/#shaping) if needed.
 
 ## Anti-Patterns
 

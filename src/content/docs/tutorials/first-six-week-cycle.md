@@ -27,16 +27,16 @@ For a first cycle, pick one big batch project.
 Create a pitch with:
 
 - Problem
-- Appetite
+- [Appetite](/reference/glossary/#appetite)
 - Solution outline
-- Rabbit holes
-- No-gos (out of scope)
+- [Rabbit holes](/reference/glossary/#rabbit-hole)
+- [No-gos](/reference/glossary/#no-go) (out of scope)
 
 Keep the solution concrete enough to build, but leave room for implementation choices.
 
 ## Step 3: Bet at the table
 
-Review candidate pitches and choose only what fits available teams for the cycle.
+Review candidate [pitches](/reference/glossary/#pitch) and choose only what fits available teams for the cycle.
 
 Rules:
 
@@ -64,11 +64,11 @@ During the 6 weeks:
 
 ## Step 6: Cool-down
 
-After six weeks, do 1-2 weeks of cool-down:
+After six weeks, do 1-2 weeks of [cool-down](/reference/glossary/#cool-down):
 
 - bug fixes
 - housekeeping
-- shaping next bets
+- [shaping](/reference/glossary/#shaping) next [bets](/reference/glossary/#bet)
 
 ## Success check
 

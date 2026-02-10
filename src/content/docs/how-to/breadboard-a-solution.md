@@ -18,7 +18,7 @@ Use breadboarding when you need to answer:
 ## Inputs
 
 - Problem statement
-- Appetite
+- [Appetite](/reference/glossary/#appetite)
 - Existing user flow or baseline screen
 
 ## Method
