@@ -4,6 +4,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://f4-shape-up.vercel.app',
 	integrations: [
 		starlight({
 			title: 'f4-shape-up',
