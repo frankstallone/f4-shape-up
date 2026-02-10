@@ -78,3 +78,10 @@ At cycle end, answer:
 - Did the team stay autonomous?
 - Were cuts strategic instead of last-minute panic?
 - Is the next cycle ready to start?
+
+## See also
+
+- How-To: [Execute a six-week build cycle](../how-to/execute-a-cycle.md)
+- How-To: [Run a betting table](../how-to/run-betting-table.md)
+- Reference: [Cadence and timing](../reference/cadence-and-timing.md)
+- Explanation: [Why six weeks works](../explanation/why-six-weeks-works.md)

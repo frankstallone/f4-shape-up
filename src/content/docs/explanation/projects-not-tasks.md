@@ -13,3 +13,9 @@ Why this matters:
 Task discovery is expected behavior, not planning failure.
 
 The risk is chaos if boundaries are weak. That is why shaping quality and no-gos are critical.
+
+## See also
+
+- How-To: [Execute a six-week build cycle](../how-to/execute-a-cycle.md)
+- Reference: [Roles and responsibilities](../reference/roles-and-responsibilities.md)
+- Explanation: [Shaping vs. building](../explanation/shaping-vs-building.md)

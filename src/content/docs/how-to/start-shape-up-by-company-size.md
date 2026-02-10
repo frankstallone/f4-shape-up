@@ -44,3 +44,9 @@ Use when teams are overloaded by interrupts. Introduce timeboxes and cool-down f
 - review misses and scope cuts
 - adjust appetite calibration
 - codify local working agreements
+
+## See also
+
+- Reference: [Adoption by team size](../reference/adoption-by-team-size.md)
+- How-To: [Implement Shape Up in Basecamp](../how-to/implement-shape-up-in-basecamp.md)
+- Tutorial: [Run your first six-week cycle](../tutorials/first-six-week-cycle.md)

@@ -31,3 +31,9 @@ Choose projects for the next cycle without building a backlog commitment.
 - List of bets for cycle N
 - Team assignments
 - Deferred ideas (not backlog commitments)
+
+## See also
+
+- Reference: [Betting table checklist](../reference/betting-table-checklist.md)
+- Reference: [Roles and responsibilities](../reference/roles-and-responsibilities.md)
+- Explanation: [Why Shape Up avoids backlogs](../explanation/why-no-backlogs.md)

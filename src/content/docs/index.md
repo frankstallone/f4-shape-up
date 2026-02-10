@@ -4,6 +4,17 @@ description: "Shape Up Documentation"
 ---
 This documentation is organized using the Diataxis framework.
 
+## Choose by intent
+
+- I want to learn by doing:
+  [Tutorials](./tutorials/index.md)
+- I need to complete a task:
+  [How-To Guides](./how-to/index.md)
+- I need exact definitions and formats:
+  [Reference](./reference/index.md)
+- I need to understand rationale and trade-offs:
+  [Explanation](./explanation/index.md)
+
 ## Tutorials
 
 - [Run your first six-week cycle](./tutorials/first-six-week-cycle.md)

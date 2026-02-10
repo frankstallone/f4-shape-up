@@ -42,3 +42,9 @@ Cut scope if it only improves:
 - cutting quality controls
 - cutting integration testing
 - adding replacement complexity under deadline pressure
+
+## See also
+
+- How-To: [Execute a six-week build cycle](../how-to/execute-a-cycle.md)
+- How-To: [Decide stop vs extend](../how-to/decide-stop-vs-extend.md)
+- Explanation: [Fixed time, variable scope](../explanation/fixed-time-variable-scope.md)

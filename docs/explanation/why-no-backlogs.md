@@ -5,3 +5,9 @@ Traditional backlogs create implicit promises and constant context switching. Th
 Shape Up treats incoming ideas as potential inputs to shaping, not queued obligations. Work enters execution only after it is shaped and explicitly bet.
 
 This keeps teams focused, keeps priorities current, and prevents stale commitments from driving the roadmap.
+
+## See also
+
+- How-To: [Run a betting table](../how-to/run-betting-table.md)
+- Explanation: [Why shaping before betting](../explanation/why-shaping-before-betting.md)
+- Reference: [Betting table checklist](../reference/betting-table-checklist.md)

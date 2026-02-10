@@ -35,3 +35,9 @@ No-gos:
 - core user task is achievable end-to-end
 - out-of-scope boundaries are explicit
 - major unknowns are patched or cut
+
+## See also
+
+- How-To: [Shape a pitch in one session](../how-to/shape-a-pitch.md)
+- How-To: [Find and patch rabbit holes](../how-to/find-and-patch-rabbit-holes.md)
+- Reference: [Betting table checklist](../reference/betting-table-checklist.md)

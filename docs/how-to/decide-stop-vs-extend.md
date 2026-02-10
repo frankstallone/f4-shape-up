@@ -28,3 +28,9 @@ Stop at the timebox. Re-shape before additional investment.
 ## Otherwise
 
 Stop, capture learnings, and move leftovers back to shaping.
+
+## See also
+
+- How-To: [Scope hammer without losing quality](../how-to/scope-hammer-without-losing-quality.md)
+- Reference: [Cadence and timing](../reference/cadence-and-timing.md)
+- Explanation: [Fixed time, variable scope](../explanation/fixed-time-variable-scope.md)

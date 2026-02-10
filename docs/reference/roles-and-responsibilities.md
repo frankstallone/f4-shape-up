@@ -23,3 +23,9 @@
 
 - provide context and feedback
 - avoid interrupting active cycle execution
+
+## See also
+
+- How-To: [Run a betting table](../how-to/run-betting-table.md)
+- How-To: [Execute a six-week build cycle](../how-to/execute-a-cycle.md)
+- Explanation: [Projects, not tasks](../explanation/projects-not-tasks.md)

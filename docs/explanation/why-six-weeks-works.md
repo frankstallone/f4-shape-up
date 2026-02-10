@@ -5,3 +5,9 @@ Six weeks is long enough to ship meaningful work and short enough to force prior
 This balance creates pressure to make tradeoffs early instead of hiding risk in endless planning. Teams can hold the full project context in working memory, which improves decision quality and reduces management overhead.
 
 The key is pairing the six-week build with a cool-down period and enforcing variable scope within fixed time.
+
+## See also
+
+- Reference: [Cadence and timing](../reference/cadence-and-timing.md)
+- Explanation: [Fixed time, variable scope](../explanation/fixed-time-variable-scope.md)
+- Tutorial: [Run your first six-week cycle](../tutorials/first-six-week-cycle.md)

@@ -23,3 +23,9 @@ Set up Basecamp artifacts that support shaping, betting, and building.
 - do not pre-split tasks from management
 - keep pitch visible in the project root
 - update scope state in one shared place
+
+## See also
+
+- Reference: [Artifacts and templates](../reference/artifacts-and-templates.md)
+- Reference: [Roles and responsibilities](../reference/roles-and-responsibilities.md)
+- How-To: [Start Shape Up by company size](../how-to/start-shape-up-by-company-size.md)

@@ -56,3 +56,10 @@ Check:
 - no unresolved critical unknowns
 
 If all pass, move to betting table.
+
+## See also
+
+- How-To: [Shape a pitch in one session](../how-to/shape-a-pitch.md)
+- How-To: [Breadboard a solution](../how-to/breadboard-a-solution.md)
+- Reference: [Pitch template with example](../reference/pitch-template-with-example.md)
+- Explanation: [Why shaping before betting](../explanation/why-shaping-before-betting.md)

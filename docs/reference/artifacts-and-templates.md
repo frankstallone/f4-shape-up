@@ -23,3 +23,9 @@ Groups work by meaningful parts of the solution. Used by the team during build.
 
 - Build cycle: 6 weeks
 - Cool-down: 1-2 weeks
+
+## See also
+
+- How-To: [Shape a pitch in one session](../how-to/shape-a-pitch.md)
+- How-To: [Use hill charts for status](../how-to/use-hill-charts-for-status.md)
+- Reference: [Pitch template with example](../reference/pitch-template-with-example.md)

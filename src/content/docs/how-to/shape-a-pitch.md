@@ -35,3 +35,9 @@ A good pitch is:
 - bounded
 - de-risked enough to start
 - flexible enough for the team to discover tasks
+
+## See also
+
+- Reference: [Pitch template with example](../reference/pitch-template-with-example.md)
+- How-To: [Find and patch rabbit holes](../how-to/find-and-patch-rabbit-holes.md)
+- Explanation: [Why shaping before betting](../explanation/why-shaping-before-betting.md)

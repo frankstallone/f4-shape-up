@@ -31,3 +31,9 @@ description: "Reference: Adoption by Team Size"
 - small: skipping shaping because speed feels high
 - medium: pseudo-backlog creep
 - large: fragmented ownership and hidden dependencies
+
+## See also
+
+- How-To: [Start Shape Up by company size](../how-to/start-shape-up-by-company-size.md)
+- How-To: [Implement Shape Up in Basecamp](../how-to/implement-shape-up-in-basecamp.md)
+- Tutorial: [Run your first six-week cycle](../tutorials/first-six-week-cycle.md)

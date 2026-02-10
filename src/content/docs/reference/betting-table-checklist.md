@@ -28,3 +28,9 @@ description: "Reference: Betting Table Checklist"
 - do not over-allocate teams
 - avoid implicit backlog promises
 - preserve uninterrupted build windows
+
+## See also
+
+- How-To: [Run a betting table](../how-to/run-betting-table.md)
+- Reference: [Roles and responsibilities](../reference/roles-and-responsibilities.md)
+- Explanation: [Why Shape Up avoids backlogs](../explanation/why-no-backlogs.md)

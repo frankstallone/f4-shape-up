@@ -25,3 +25,9 @@ Many small mixed tasks with weak structure; requires re-grouping before executio
 - each scope maps to a user-visible outcome or concrete technical boundary
 - dependencies between scopes are explicit
 - unknowns are concentrated, not scattered
+
+## See also
+
+- How-To: [Use hill charts for status](../how-to/use-hill-charts-for-status.md)
+- How-To: [Execute a six-week build cycle](../how-to/execute-a-cycle.md)
+- Reference: [Artifacts and templates](../reference/artifacts-and-templates.md)

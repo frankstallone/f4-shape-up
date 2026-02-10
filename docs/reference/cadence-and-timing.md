@@ -15,3 +15,9 @@
 Fixed time, variable scope.
 
 If the project does not fit, reduce scope before extending schedule.
+
+## See also
+
+- How-To: [Execute a six-week build cycle](../how-to/execute-a-cycle.md)
+- How-To: [Decide stop vs extend](../how-to/decide-stop-vs-extend.md)
+- Explanation: [Why six weeks works](../explanation/why-six-weeks-works.md)

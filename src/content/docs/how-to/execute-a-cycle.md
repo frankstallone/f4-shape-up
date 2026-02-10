@@ -21,3 +21,10 @@ Ship a shaped project in six weeks.
 - estimate-driven re-planning every few days
 - late integration
 - extending deadline by default
+
+## See also
+
+- How-To: [Use hill charts for status](../how-to/use-hill-charts-for-status.md)
+- How-To: [Scope hammer without losing quality](../how-to/scope-hammer-without-losing-quality.md)
+- How-To: [Decide stop vs extend](../how-to/decide-stop-vs-extend.md)
+- Reference: [Cadence and timing](../reference/cadence-and-timing.md)
