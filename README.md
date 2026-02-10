@@ -2,18 +2,31 @@
 
 Diataxis-based documentation derived from *Shape Up* by Ryan Singer.
 
-## Documentation Map
+## Project Layout
+
+- `docs/`: source Diataxis docs
+- `src/content/docs/`: Starlight-rendered docs content
+- `sources/shape-up.pdf`: source book PDF
+- `sources/shape-up.md`: extracted Markdown reference
+
+## Diataxis Map
 
 - `docs/tutorials/`: learning-oriented, end-to-end lessons
 - `docs/how-to/`: goal-oriented procedures
 - `docs/reference/`: factual lookups (roles, artifacts, cadence, glossary)
 - `docs/explanation/`: rationale and tradeoffs
 
-## Source Material
+## Run the Starlight Site
 
-- `sources/shape-up.pdf`
-- `sources/shape-up.md`
+```bash
+npm install
+npm run dev
+```
 
-## Start Here
+Build for static output:
 
-- `docs/index.md`
+```bash
+npm run build
+```
+
+The built site is generated in `dist/`.
