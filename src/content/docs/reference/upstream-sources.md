@@ -6,6 +6,10 @@ description: "Reference: Upstream Sources"
 
 Canonical source links for the shaping workflow this manual builds on.
 
+## Core book
+
+- [Shape Up by Basecamp](https://basecamp.com/shapeup)
+
 ## Ryan article
 
 - [Shaping 0-1 with Claude Code](https://x.com/rjs/status/2020184079350563263?s=20)
